@@ -4,3 +4,4 @@ if(true) {
 
 }
 console.log(nombre);
+console.log(nombre);

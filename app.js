@@ -1,6 +1,6 @@
 
 if(true) {
-    let nombre = "Pepe";
+    var nombre = "Pepe";
 
 }
 console.log(nombre);

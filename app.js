@@ -1,8 +1,8 @@
 
 if(true) {
     var nombre = "Pepe";
-    var nombreNueva = "Coco";
+    var nombreNuevo = "Coco";
 
 }
 console.log(nombre);
-console.log(nombre2);
+console.log(nombreNuevo);
